@@ -1,0 +1,8 @@
+1111     iPad Pro 64Gb            0900.50 
+1112     charger iPad             0050.30 
+1113     pen iPad                 0099.30
+1114     macBox Pro               2018.99
+1115     iPhone 6 plus            0700.99
+1116     iPhone 5                 0500.50
+1117     logitech keyboard        0099.99
+1118     iTunes Gift Card         0025.99
